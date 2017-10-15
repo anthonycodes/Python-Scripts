@@ -34,10 +34,6 @@ def getstring():
 	return args
 
 def phaseone():
-	# to_encrypt = getstring()
-	# numbers_grouped = appapi.translate(conf.chars_to_scv, to_encrypt)
-	# if unsecure: print("[DEBUG] Phase 1 Result: {}".format(numbers_grouped))
-	# return numbers_grouped
 	result = appapi.convert_string_to_number(getstring())
 	if unsecure: print("[DEBUG] Phase 1 Result: {}".format(result))
 	return result
