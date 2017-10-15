@@ -6,6 +6,6 @@ When encrypted your string should look something like this:
   
 7ca1FaA36B1a6d3e83d002695B260e0c
 
-Are you happy? Is this what you wanted?
-A 32 length string with the mixedcasehexcharacter charest.
+Are you happy? Is this what you wanted?  
+A 32 length string with the mixedcasehexcharacter charest.  
 Real nice.
