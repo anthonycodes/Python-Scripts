@@ -1,7 +1,6 @@
 # Steganography Cypher Program
-# Made by WolfDood
-# If the source code is released,
-# it's going here: https://github.com/WolfDood/scp
+# Made by AnthonyCodes
+# Source Code: https://github.com/anthonycodes/Python-Scripts/tree/master/scp/
 
 # Imports
 import config as conf
