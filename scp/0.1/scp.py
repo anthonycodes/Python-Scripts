@@ -1,6 +1,6 @@
 # Steganography Cypher Program
 # Made by AnthonyCodes
-# Source: https://github.com/anthonycodes/Python-Scripts/scp
+# Source: https://github.com/anthonycodes/Python-Scripts/blob/master/scp/0.1/
 
 # Imports
 import config as conf
