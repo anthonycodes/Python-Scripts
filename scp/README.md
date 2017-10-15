@@ -1,6 +1,5 @@
-# Steganography Cypher Program
-Original name, I know.
-  
+# SCP
+    
 This is a command line utility designed to keep strings encrypted.  
 When encrypted your string should look something like this:  
   
